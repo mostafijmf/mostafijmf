@@ -24,7 +24,7 @@
 <br/>
 
 # 💻 Tech Stack:
-<p align="left" style="display:flex;gap:20px;flex-wrap: wrap;">
+<p align="left" style="display:flex; gap:20px; flex-wrap: wrap;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
