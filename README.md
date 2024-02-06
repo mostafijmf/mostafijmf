@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking to collaborate on **open source projects.**
 
-- 📫 How to reach me **mostafijmf@gmail.com**
+- 📫 How to reach me: **mostafijmf@gmail.com**
 
 - 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1fMvjp2PiYlfE_O_18VOIzFa8LMxzBmO5/view?usp=sharing)
 <br/>
