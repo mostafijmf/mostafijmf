@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafij Mozumdar</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **DSA with C++ & Python**
+- 🌱 I’m currently learning **OOP and Python Programming**
 
 - 🤝 I’m looking to collaborate on **open source projects.**
 
